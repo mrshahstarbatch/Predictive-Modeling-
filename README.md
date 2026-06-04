@@ -67,6 +67,6 @@ matplotlib
 
 ## Usage
 
-1. Upload the CNA Hackathon dataset to `/kaggle/input/cna-hackathon/`
-2. Run all cells in `vaccine.ipynb`
-3. `submission.csv` will be saved to the working directory
+1. Upload the CNA Hackathon dataset to "/kaggle/input/cna-hackathon/"
+2. Run all cells in "vaccine.ipynb"
+3. "submission.csv" will be saved to the working directory
