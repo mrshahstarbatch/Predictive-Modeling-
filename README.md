@@ -5,16 +5,16 @@ Predicts the probability of individuals receiving XYZ and seasonal flu vaccines 
 ## Problem
 
 Two binary classification targets, evaluated on mean ROC AUC:
-- `xyz_vaccine` — probability the respondent received the XYZ vaccine
-- `seasonal_vaccine` — probability the respondent received the seasonal flu vaccine
+- **xyz_vaccine** — probability the respondent received the XYZ vaccine
+- **seasonal_vaccine** — probability the respondent received the seasonal flu vaccine
 
 ## Dataset
 
 | File | Description |
 |------|-------------|
-| `training_set_features.csv` | Survey responses for 26,707 respondents |
-| `training_set_labels.csv` | Vaccine uptake labels |
-| `test_set_features.csv` | Held-out respondents for submission |
+| **training_set_features.csv** | Survey responses for 26,707 respondents |
+| **training_set_labels.csv** | Vaccine uptake labels |
+| **test_set_features.csv** | Held-out respondents for submission |
 
 Key features include demographics (age, sex, education, race), behavioral indicators (doctor recommendations, health opinions), and socioeconomic attributes.
 
